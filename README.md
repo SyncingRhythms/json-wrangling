@@ -2,7 +2,6 @@
 Load, wrangle, and process JSON data files from World Bank Projects
 
 ***
-##
 
 Using pandas, I practiced cleaning and exploring JSON data on country submitted projects to the World Bank. The techniques used indclude:
 - Loaded JSON data files
