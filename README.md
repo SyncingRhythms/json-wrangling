@@ -8,5 +8,5 @@ Using pandas, I practiced cleaning and exploring JSON data on country submitted 
 - Loaded JSON data files
 - Normalized JSON data within dataframe cells to create tabular data for further processing
 - Filled missing project theme names with surrounding rows that contained the same code
-  -utilizing sort, forward fill, and backward fill methods
+  - utilizing sort, forward fill, and backward fill methods
 - Explored and summarized top country proposals and themes
